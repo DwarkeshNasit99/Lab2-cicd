@@ -19,4 +19,4 @@ class TestApp(unittest.TestCase):
         self.assertEqual(data['status'], 'healthy')
 
 if __name__ == '__main__':
-    unittest.main() 
+    unittest.main()
